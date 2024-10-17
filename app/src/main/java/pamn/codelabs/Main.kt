@@ -1,5 +1,6 @@
 package pamn.codelabs
 
 fun main() {
-    println("Hello world")
+    val name = "juan carlos" // val => constantes / var => variables
+    println("Hello $name")
 }
